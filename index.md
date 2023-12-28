@@ -5,6 +5,7 @@
 ### Applying control charts to medical utilization analysis
 
 [Control charts](https://asq.org/quality-resources/control-chart) have their origin in quality control of manufacturing processes.  In my consulting book of business we're frequently monitoring for changes in utilization, and I thought that this old QC technique might work to visually illustrate that.  I think it turned out great:
+<br>
 <img src="images/controlchart.png?raw=true"/>
 Note: Data is simulated to protect privacy
 
