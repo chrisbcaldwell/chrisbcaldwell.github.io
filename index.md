@@ -22,7 +22,7 @@ NFL.com hosts [archived scouting reports](https://www.nfl.com/prospects/richard-
 <img src="images/nfldraftdataframe.png?raw=true"/>
 Note: NFL.com has changed the naming schema of these pages considerably since this project was implemented; the logic for parsing through the various pages in this repository will not work with the current format.
 
-[](https://img.shields.io/bad
+<img src="https://img.shields.io/badge/-R-white?logo=r&logoColor=276DC3">
 
 [View code on Github](/nfl_draft)
 
