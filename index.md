@@ -8,7 +8,7 @@
 <br>
 <br>
 <img src="images/controlchart.png?raw=true"/>
-Note: Because this was a work project, output is based on simulated data to protect privacy. Supporting files are not available to be shared.
+Note: Because this was a proprietary project, output is based on simulated data. Supporting files/methods are not available to be shared.
 
 <img src="https://img.shields.io/badge/-Excel-white?logo=microsoftexcel&logoColor=217346">
 
