@@ -10,6 +10,8 @@
 <img src="images/controlchart.png?raw=true"/>
 Note: Because this was a work project, output is based on simulated data to protect privacy. Supporting files are not available to be shared.
 
+<img src="https://img.shields.io/badge/-Excel-white?logo=excel">
+
 ---
 
 ### Implementing a custom data collection pipeline of American football player scouting reports using rvest
@@ -19,6 +21,8 @@ NFL.com hosts [archived scouting reports](https://www.nfl.com/prospects/richard-
 <br>
 <img src="images/nfldraftdataframe.png?raw=true"/>
 Note: NFL.com has changed the naming schema of these pages considerably since this project was implemented; the logic for parsing through the various pages in this repository will not work with the current format.
+
+[](https://img.shields.io/bad
 
 [View code on Github](/nfl_draft)
 
