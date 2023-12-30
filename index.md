@@ -30,7 +30,7 @@ Note: NFL.com has changed the naming schema of these pages considerably since th
 
 ### Sentiment analysis project: Can consumer reviews be used to predict sentiment of other natural language applications?
 
-Undergraduate capstone project training a SVM model with sentiment-graded reviews from IMDB, Amazon, and Yelp.  It was great at detecting negative sentiment but not so great at detecting positive sentiment.  There are probably just more ways to say you like something than to say you don't like something.
+Undergraduate capstone project training a SVM model with sentiment-graded reviews from IMDB, Amazon, and Yelp.  It was great at detecting negative sentiment but not so great at detecting positive sentiment.  There are probably just more ways to say you like something than to say you don't like something, so the negative words bear greater weight.
 <br>
 <br>
 Top 10 most influential words in the model:
