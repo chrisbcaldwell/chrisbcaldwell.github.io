@@ -12,7 +12,7 @@ Note: NFL.com has changed the naming schema of these pages considerably since th
 
 <img src="https://img.shields.io/badge/-R-white?logo=r&logoColor=276DC3"> <img src="https://img.shields.io/badge/-Tidyverse-white?logo=tidyverse&logoColor=1A162D">
 
-[View code on Github](/nfl_draft)
+[View code on Github](https://github.com/chrisbcaldwell/nfl_draft)
 
 ---
 
@@ -27,7 +27,7 @@ Top 10 most influential words in the model:
 
 <img src="https://img.shields.io/badge/-R-white?logo=r&logoColor=276DC3"> <img src="https://img.shields.io/badge/-Tidyverse-white?logo=tidyverse&logoColor=1A162D">
 
-[View code on Github](/SVM_Sentiment_Analysis)
+[View code on Github](https://github.com/chrisbcaldwell/SVM_Sentiment_Analysis)
 
 ---
 
