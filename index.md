@@ -2,6 +2,19 @@
 
 ---
 
+### Building a graph database using EdgeDB
+
+I built a graph database in EdgeDB from Yelp data of Chicago business reviews.  Data was supplemented with Google Maps location data using the Google Maps API.
+<br>
+<br>
+<img src="images/schema.png?raw=true"/>
+
+<img src="https://img.shields.io/badge/-EdgeDB-white"> <img src="https://img.shields.io/badge/-Python-white?logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/-pandas-white?logo=pandas&logoColor=150458">
+
+[View code on Github](https://github.com/chrisbcaldwell/Chicago_Yelp_EdgeDB)
+
+---
+
 ### Implementing a custom data collection pipeline of American football player scouting reports using rvest
 
 NFL.com hosts [archived scouting reports](https://www.nfl.com/prospects/richard-sherman/32005348-4566-9604-dee9-7cd0f304c5df) for college players ready to be selected in the annual NFL draft.  With an eye toward NLP analysis of words or phrases that can be linked to players who perform better or worse than their draft selection order, I built a data collecting script in R using the rvest package.
