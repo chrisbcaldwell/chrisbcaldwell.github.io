@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Chris Caldwell</title>
-    <link>https://example.com/portfolio/</link>
+    <link>https://chrisbcaldwell.github.io/portfolio/</link>
     <description>Recent content in Projects on Chris Caldwell</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chrisbcaldwell.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graph-Relational Database with EdgeDB</title>
-      <link>https://example.com/portfolio/chi-edgedb/</link>
+      <link>https://chrisbcaldwell.github.io/portfolio/chi-edgedb/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/portfolio/chi-edgedb/</guid>
+      <guid>https://chrisbcaldwell.github.io/portfolio/chi-edgedb/</guid>
       <description>&lt;p&gt;I built a Jupyter notebook that creates a graph database in EdgeDB from Yelp data of Chicago business reviews.  Data was supplemented with Google Maps location data using the Google Maps API.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Python, pandas, EdgeDB&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Web Scraping NFL Draft Data with R Using rvest</title>
-      <link>https://example.com/portfolio/nfl_draft/</link>
+      <link>https://chrisbcaldwell.github.io/portfolio/nfl_draft/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/portfolio/nfl_draft/</guid>
+      <guid>https://chrisbcaldwell.github.io/portfolio/nfl_draft/</guid>
       <description>&lt;p&gt;NFL.com hosts &lt;a href=&#34;https://www.nfl.com/prospects/richard-sherman/32005348-4566-9604-dee9-7cd0f304c5df&#34;&gt;archived scouting reports&lt;/a&gt; for college players ready to be selected in the annual NFL draft.  I wrote a script in R using the rvest package that scraped every available pre-draft player page from NFL.com to get the various attributes for each player (name, year selected, college, position) and the player&amp;rsquo;s scouting report summary text (overview, strengths, weaknesses).  A sample of the resulting data frame is below:&#xA;&lt;img src=&#34;nfldraftdataframe.png&#34; alt=&#34;R data frame&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;R, rvest&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sentiment Analysis</title>
-      <link>https://example.com/portfolio/sentiment/</link>
+      <link>https://chrisbcaldwell.github.io/portfolio/sentiment/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/portfolio/sentiment/</guid>
+      <guid>https://chrisbcaldwell.github.io/portfolio/sentiment/</guid>
       <description>&lt;p&gt;Undergraduate capstone project training a SVM model with sentiment-graded reviews from IMDB, Amazon, and Yelp.  It was great at detecting negative sentiment but not so great at detecting positive sentiment.  There are probably just more ways to say you like something than to say you don&amp;rsquo;t like something, so the negative words bear greater weight.&lt;/p&gt;&#xA;&lt;p&gt;The ten most influential terms in the model:&#xA;&lt;img src=&#34;topinfluentialterms.png&#34; alt=&#34;table of influential terms&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;R, Rtexttools, dplyr, MASS, e1071&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
