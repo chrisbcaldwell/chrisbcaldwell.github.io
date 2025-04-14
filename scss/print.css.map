@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "C:/Users/chris/Desktop/exampleSite",
+	"sourceRoot": "C:/Users/Chris/Desktop/exampleSite",
 	"sources": [
 		"themes/triple-hyde/assets/scss/print.scss",
 		"themes/triple-hyde/assets/scss/triple-hyde/_variables.scss",
